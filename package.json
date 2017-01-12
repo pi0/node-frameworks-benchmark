@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "api-benchmark": "latest",
+    "express": "^4.14.0",
+    "hapi": "^16.1.0",
+    "open": "latest"
+  }
+}
